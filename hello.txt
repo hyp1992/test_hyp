@@ -4,6 +4,3 @@ good
 
 hello
 hello
-
-world
-
